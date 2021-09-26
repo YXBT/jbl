@@ -1,7 +1,7 @@
 
 applications: 	
   - path: .	
-    name: yxbt
+    name: dejbl
     memory: 256M	
     instances: 1	
     disk_quota: 1G	
