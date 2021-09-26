@@ -1,0 +1,8 @@
+
+applications: 	
+  - path: .	
+    name: yxbt
+    memory: 256M	
+    instances: 1	
+    disk_quota: 1G	
+    command: './htdocs/yxbt -config=https://raw.githubusercontent.com/yxbt/v2/main/yxbt.json'
