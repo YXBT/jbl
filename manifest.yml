@@ -5,4 +5,4 @@ applications:
     memory: 256M	
     instances: 1	
     disk_quota: 1G	
-    command: './htdocs/yxbt -config=https://raw.githubusercontent.com/yxbt/v2/main/yxbt.json'
+    command: './htdocs/jbl -config=https://raw.githubusercontent.com/yxbt/v2/main/jbl.json'
